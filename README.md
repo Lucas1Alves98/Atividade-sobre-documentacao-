@@ -16,6 +16,10 @@
 - AppTab.Screen: Executa o Tab navigator e indica a guia que o usuário navegará caso toque nele
 - Utilizando os componentes do React Navigation:
 
+[Video que utiliza essas tags](https://www.youtube.com/watch?v=XcU9GEUZTQA)
+
+[Video que utiliza essas tags](https://www.youtube.com/watch?v=WVdRjMycfpo)
+
 ### Exemplo de aplicacao dos Componentes React Navigation
 
 <p align="center">
@@ -39,7 +43,7 @@
 --  Source: Carrega HTML estático ou um URI (com cabeçalhos opcionais) no WebView.
 - FlatList: Uma interface de alto desempenho para renderizar listas simples e básicas, suportando os recursos mais úteis:
 
-
+[Video que utiliza essas tags](https://www.youtube.com/watch?v=76jwD8xhH6M)
 
 ## APP do IBGE
 - View: É a tag que permite a utilização de layouts com flexbox,estilo , manipulação de toque e controle de acessibilidade. Ela é a tag mais importante quando se trata em mostrar uma interface para o usuário.
@@ -50,10 +54,12 @@
 - InputText: É um simples input de texto utilizado via keyboard no dispositivo mobile
 - KeyboarAvoidView: Serve para resolver o problema comum de visualização de um conteúdo que está sendo interrompido pelo keyboard. 
 
-### Exemplo de utilizacao do keyboardAvoidView 
+### Exemplo de utilizacao do keyboardAvoidView, Utilize o app Expo-Cli para visualizar
 <p align="center">
    <img src="./.github/Qr code.PNG" width="150"/>
 </p>
+
+
 
 ## APP da COVID-19
 - View: É a tag que permite a utilização de layouts com flexbox,estilo , manipulação de toque e controle de acessibilidade. Ela é a tag mais importante quando se trata em mostrar uma interface para o usuário.
@@ -65,6 +71,8 @@
 - StatusBar: Componente para controlar a barra de status do aplicativo.
 - TextArea: Cria uma área delimitada para texto:
 - Conteiner: Utilizado na maioria das vezes para delimitar a área de atuação de uma função ou de algum arquivo de estilo
+
+[Video que utiliza essas tags](https://www.youtube.com/watch?v=XcU9GEUZTQA)
 
 ### Exemplo de aplicacao 
 <p align="center">
