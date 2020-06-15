@@ -76,7 +76,10 @@
 ## Referencias
 
 [https://github.com/Lucas1Alves98/appCorona-19](https://github.com/Lucas1Alves98/appCorona)
+
 [https://github.com/Lucas1Alves98/senai-ibge](https://github.com/Lucas1Alves98/senai-ibge)
+
 [https://github.com/Lucas1Alves98/senaiflix](https://github.com/Lucas1Alves98/senaiflix)
+
 [https://github.com/Lucas1Alves98/ProjetoDispositiveisMoveis](https://github.com/Lucas1Alves98/ProjetoDispositiveisMoveis)
 
